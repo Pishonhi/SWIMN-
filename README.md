@@ -26,35 +26,35 @@ SWIMN is a web 3.0 lifestyle app that implements the swim-to-earn concept. SWIMN
 
 ### Daily Limit
 
-- Club Mode<br>
+- Backstroke Mode<br>
 Time limitation: 4 hours per day
-- Jump Rope Mode<br>
+- Breaststroke Mode<br>
 Time limitation: 0.5 hours per day
-- Normal Mode<br>
+- Freestyle Mode<br>
 Calories calculated in 24 hours per day<br>
 - Extreme Mode(Coming Soon)
 
 ### Earning Mechanics
 
-#### For Club and Jump Rope Mode:
+#### For Backstroke and Breaststroke Mode:
 
-##### _JST Rewards = N * WAEL*(WABA+ABA)^JUMPN value * α(P1,P2)*F*100_
+##### _SWN Rewards = N * WAEL*(WABA+ABA)^SWIMN value * α(P1,P2)*F*100_
 
-- N = Number of JET burned.
+- N = Number of SET burned.
 - WAEL = Weighted average of efficiency level Index.
 - WABA = Weighted average of efficiency level.
-- ABA = Additional bounce ability.
+- ABA = Additional swimming ability.
 - F = Ratio of average frequency per minute
 - α = Alpha coefficient 
 - Parameter: A range of system values.
-- JUMPN value: Value set by the team. It changes following the percentage of users engagement. 
+- SWIMN value: Value set by the team. It changes following the percentage of users engagement. 
 
 
-#### For Normal Mode
+#### For Freestyle Mode
 
-- You will get a fixed reward of 10,000 JST if over 2000 calories are burned per day. 
-- If less than 2000 calories burned, JST Rewards =(Actual Calories you burned - 800)/12*100
-  For example, if only 1300 calories are burned today, you will earn (1300-800)/12*100 = 4166.7 JST as your normal mode reward. 
+- You will get a fixed reward of 10,000 SWN if over 2000 calories are burned per day. 
+- If less than 2000 calories burned, SWN Rewards =(Actual Calories you burned - 800)/12*100
+  For example, if only 1300 calories are burned today, you will earn (1300-800)/12*100 = 4166.7 SWN as your normal mode reward. 
 
 #### For Extreme Sports Mode (Coming Soon)
 
@@ -62,23 +62,23 @@ Extreme Sports Mode can be used twice per week. You will need to record a video 
 
 # TOKEN
 
-### JET
+### SET
 
-JET has an unlimited supply and is earned when a user staked or opens the mystery combo box.<br>
+SET has an unlimited supply and is earned when a user staked or opens the mystery combo box.<br>
 The JET is burned by:<br>
 Wristband-Minting<br>
-Stamp-Minting<br>
-Rope-Minting<br>
+Goggles-Minting<br>
+Swimfin-Minting<br>
 Outfit Repair<br>
 Joining activities in different modes<br>
-Leveling up wristbands, stamps, and ropes<br>
+Leveling up swimfins, goggles, and snorkel<br>
 Ability upgrade
 
 ### Tokenomics
 
-The initial supply of JET is 10,000,000. There are 100,000 JET minted per 24 hours for staking pools. JUMPN members have the right to vote for daily output of JET one week after JUMPN farm released.
+The initial supply of SET is 10,000,000. There are 100,000 SET minted per 24 hours for staking pools. SWIMN members have the right to vote for daily output of SET one week after SWIMN farm released.
 
-## JST
+## SWIMN
 
 ### Tokenomics
 
@@ -86,7 +86,7 @@ The initial supply of JET is 10,000,000. There are 100,000 JET minted per 24 hou
 
 ## Airdrop
 
-1,294,600,000 JST (1.2946%) are reserved for airdrop. Early members who finished our airdrop tasks and JUMPN ambassadors will get the airdrop when launched. In addition, we will start special airdrop events for DJs, singers, social media influencers, and clubbing lovers. Please submit the relevant materials to hello@JUMPN.today to get your airdrop allocation. 
+1,294,600,000 SWN (1.2946%) are reserved for airdrop. Early members who finished our airdrop tasks and SWIMN ambassadors will get the airdrop when launched. Please submit the relevant materials to hello@swimn.today to get your airdrop allocation. 
 
 ## Anti-Cheating System
 
@@ -95,9 +95,9 @@ Four mechanics are used to stop cheating in the game, which include the cheater'
 1. GPS tracking
 2. Data edit by coding
 3. machine simulation learning through data
-4. 24 hours data jumper tracking
+4. 24 hours data swimming tracking
 
-Each account must only match one wristband (JUMPN). If an investor transfer wristband to another accounting system properly will lock up or burn in the marketplace.
+Each account must only match one snorkel (SWIMN). If an investor transfer snorkel to another accounting system properly will lock up or burn in the marketplace.
 
 ## Team
 
@@ -108,25 +108,10 @@ Each account must only match one wristband (JUMPN). If an investor transfer wris
 
 ## Social and Community
 
-JUMPN aims to build a solid social community with people around the world. Social-Fi DAO will be grouped by players. The community will poll for future decisions. Such as purchasing shares of some famous clubs in the world someday. More details will be revealed in the future. 
-
-##### International Groups
-
-Official Group: https://t.me/JUMPNofficialGroup<br>
-Official Channel: https://t.me/JUMPNofficialChannel<br>
-Chinese: https://t.me/JUMPNofficialCNGroup<br>
-English: https://t.me/JUMPNofficialEN<br>
-German: https://t.me/JUMPNofficialGE<br>
-Korean: https://t.me/JUMPNofficialKOR<br>
-Vietnamese: https://t.me/JUMPNofficialVN
+SWIMN aims to build a solid social community with people around the world. Social-Fi DAO will be grouped by players. The community will poll for future decisions. Such as organizing swimming competitions. More details will be revealed in the future. 
 
 ## Useful Links
 
-Website: https://jumpn.today<br>
-Official Telegram Announcement: https://t.me/JUMPNofficialChannel<br>
-Official Telegram Chat Group: https://t.me/JUMPNofficialGroup<br>
-Twitter: https://twitter.com/JUMPNofficial<br>
-Instagram: https://www.instagram.com/JUMPNofficial<br>
-Discord: https://discord.gg/86re69DcTH<br>
-Medium: https://medium.com/@JUMPNofficial<br>
+Website: https://swimnn.today<br>
+Telegram: https://SwimNoffical<br>
 
