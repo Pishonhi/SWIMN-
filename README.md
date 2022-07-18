@@ -1,27 +1,27 @@
-# JUMPN
+# SWIMN
 
-### JUMPN is a web 3.0 lifestyle app that implements the jump-to-earn concept.
+### SWIMN is a web 3.0 lifestyle app that implements the jump-to-earn concept.
 
 ![Build Status](https://765022154-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FzCTUiyBFEsve5x72fsjA%2Fuploads%2FguWD4Sobj9ZlXasJcNwL%2Fbanner_gitbook.png?alt=media&token=d160cfd0-b21f-424f-b592-6d26c0f19cd2)
 
-JUMPN is a web 3.0 lifestyle app that implements the jump-to-earn concept. JUMPN is designed to bring happiness back to people through three dimensions: social connections, physical health, and, most importantly, income. Users of JUMPN will gain a high return of $JST through 'Jumping.' There are several modes, including solo mode, clubbing mode, and extreme sports mode, which contain different rewards levels. 
+SWIMN is a web 3.0 lifestyle app that implements the swim-to-earn concept. SWIMN is designed to bring happiness back to people through three dimensions: social connections, physical health, and, most importantly, income. Users of SWIMN will gain a high return of $SWN through 'Swimming.' There are several modes, including backstroke mode, breaststroke mode, and extreme sports mode, which contain different rewards levels. 
 
 ## MODE
 
-- Club Mode
-- Jump Rope Mode
+- Freestyle Mode
+- Backstroke Mode
+- Breaststroke Mode
 - Extreme Sports Mode
-- Normal Mode
 
-## Jump To Earn Mechanics
+## Swim To Earn Mechanics
 
 ### Key Factors
 
-##### Factors that determine the output of your JST:
+##### Factors that determine the output of your SWN:
 
--  Efficiency level of your stamps, wristbands, or ropes.
+-  Efficiency level of your snorkels, swimfins, or goggles.
 -  Frequencies of your movement.
--  Bounce ability.
+-  Swimming ability.
 -  Time you spent.
 
 ### Daily Limit
