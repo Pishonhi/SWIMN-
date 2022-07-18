@@ -112,6 +112,6 @@ SWIMN aims to build a solid social community with people around the world. Socia
 
 ## Useful Links
 
-Website: https://swimnn.today<br>
+Website: https://swimn.today<br>
 Telegram: https://t.me/SWIMNOFFICIAL<br>
 
